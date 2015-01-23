@@ -1,3 +1,3 @@
 # CoolLoadAniamtion
 #### 一个简单但是效果不错的loading动画
-![](http://ww1.sinaimg.cn/bmiddle/55c06004jw1eoirqtvfw7g20d30iitbu.gif)
+![](http://m3.img.srcdd.com/farm5/d/2015/0123/11/D7158FAC956BD0E651CC31CE14D23A6A_ORIG_471_666.gif)
